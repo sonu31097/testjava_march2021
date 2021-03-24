@@ -1,0 +1,12 @@
+create a class Account. in the class add accid,name,balance,date of acopening,min balance,
+there are 2 types of accounts saving,current
+in svaing account store checquebook number
+and in current accoun t store number of transactions
+interest rate
+for saving a/c interrest rate is 4% and for current a/c interest rate is 2%
+display menu
+1.open new account
+2. calculate interest for a customer
+3. display first n accounts with maximum balance
+     accept value of n from user
+4. exit
